@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Libreezy</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_subtitle">Sign in with your Google account to pick up where you left off.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="terms_footer">By continuing, you agree to our &lt;a href=\"terms\">Terms of Service&lt;/a> and &lt;a href=\"privacy\">Privacy Policy&lt;/a>.</string>
+</resources>
